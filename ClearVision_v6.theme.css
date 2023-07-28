@@ -1,17 +1,12 @@
 /**
- * @name ClearVision
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable theme for BetterDiscord.
+ * @name ClearModified
+ * @author Diamondy01
+ * @version 0.1
+ * @description Best Modfied theme for Discord
  * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite dHaSxn3
- */
-
-/* Credits to Zerthox for making the original theme. */
 
 /* IMPORT CSS */
-@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+@import url(https://github.com/Diamondy01/ClearVision-v6/blob/master/main.scss);
 
 /* SETTINGS */
 :root {
