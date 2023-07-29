@@ -9,4 +9,4 @@
 
 **Click To Create a new Fork From the Diamondy Team**
 
-   `__You can always achieve something like this from the following__`
+__You can always achieve something like this from the following__
