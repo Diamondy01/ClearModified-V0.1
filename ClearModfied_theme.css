@@ -12,16 +12,16 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
-  --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
-  --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
+  --main-color: #be8a09; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #e8f40a; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --success-color: #00ff8c; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+  --danger-color: #ff0000; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
-  --online-color: #0eeb24; /* online status color (hex, rgb or hsl) [default: #43b581] */
-  --idle-color: #ca9505; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
-  --dnd-color: #800d0d; /* dnd status color (hex, rgb or hsl) [default: #982929] */
+  --online-color: #00ff1a; /* online status color (hex, rgb or hsl) [default: #43b581] */
+  --idle-color: #a57c0b; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
+  --dnd-color: #912727; /* dnd status color (hex, rgb or hsl) [default: #982929] */
   --streaming-color: #351865; /* streaming status color (hex, rgb or hsl) [default: #593695] */
   --offline-color: #525252; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
@@ -56,9 +56,9 @@
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
-  --channel-color: rgba(255, 255, 255, 0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
+  --channel-color: rgba(217, 205, 205, 0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
   --channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
-  --muted-color: rgba(255, 255, 255, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
+  --muted-color: rgba(126, 117, 117, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
 
   /* MODAL BACKDROP */
   --backdrop-overlay: rgba(0, 0, 0, 0.8); /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
