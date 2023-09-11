@@ -16,7 +16,7 @@
   --hover-color: #fafaf9; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #00ff8c; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #ff0000; /* danger accent color (hex, rgb or hsl) [default: #982929] */
-  --url-color: #4481d0; /*The color of url links [default: var(--main-color)]*/
+  --url-color: #5895e4; /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
   --online-color: #108b1c; /* online status color (hex, rgb or hsl) [default: #43b581] */
